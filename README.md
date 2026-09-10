@@ -166,7 +166,7 @@ Deployed on **Streamlit Cloud**. To deploy your own:
 
 **Vijaya Lakshmi Atluri**
 - GitHub: [@vijaya-842](https://github.com/vijaya-842)
-- LinkedIn:(https://www.linkedin.com/in/vijaya-atluri/)
+- LinkedIn: https://www.linkedin.com/in/vijaya-atluri/
 
 ---
 
